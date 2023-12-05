@@ -25,16 +25,16 @@ module.exports = () => {
 
       // Webpack PWA Manifest Plugin
       new WebpackPwaManifest({
-        name: 'Your PWA Name',
-        short_name: 'Your PWA',
-        description: 'Your PWA Description',
+        name: 'JATE',
+        short_name: 'Just Another Text Editor',
+        description: 'Web-based PWA Text Editor',
         background_color: '#ffffff',
         theme_color: '#000000',
         start_url: '/',
         display: 'standalone',
         icons: [
           {
-            src: path.resolve('src/assets/icon.png'),
+            src: path.resolve('client/src/images/logo.png'),
             sizes: [96, 128, 192, 256, 384, 512],
           },
         ],

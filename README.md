@@ -18,8 +18,11 @@ JATE is Just Another Text Editor that runs in the browser. The app will be a sin
 - [Licenses](#licenses)
 
 ## Screenshots
+![Screenshot](19-pwa-homework-demo-01.gif)
 
 ## Usage
+
+JATE can be used online via website or installed locally by clicking the Install button in the upper left corner of the application.
 
 ## Credits
 
